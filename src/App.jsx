@@ -9,7 +9,7 @@ import {
   Contact,
   Carteras,
   Caracteristicas,
-} from "../components";
+} from "./components";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
